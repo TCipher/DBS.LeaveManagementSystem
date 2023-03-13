@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{706A31A8-81AC-466C-B071-4D99BF0289B1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{D9ABB861-86F9-4479-81B8-F88D86FAF34E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{BA872A3A-40D7-4438-8378-A3CD1BE8A0D9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{E6DBC423-D395-4472-B94D-72CF6C2F3492}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infracstructure", "Infracstructure", "{FEEB6832-7C61-4EFC-803B-1FC2912009C7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{85F29017-44DB-4A0C-8264-B64FD698DBB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBS.LeaveManagement.Domain", "DBS.LeaveManagement.Domain\DBS.LeaveManagement.Domain.csproj", "{037D942B-DEDC-4A18-9506-868124C5F5F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{037D942B-DEDC-4A18-9506-868124C5F5F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{037D942B-DEDC-4A18-9506-868124C5F5F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{037D942B-DEDC-4A18-9506-868124C5F5F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{037D942B-DEDC-4A18-9506-868124C5F5F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BA872A3A-40D7-4438-8378-A3CD1BE8A0D9} = {706A31A8-81AC-466C-B071-4D99BF0289B1}
+		{E6DBC423-D395-4472-B94D-72CF6C2F3492} = {706A31A8-81AC-466C-B071-4D99BF0289B1}
+		{FEEB6832-7C61-4EFC-803B-1FC2912009C7} = {706A31A8-81AC-466C-B071-4D99BF0289B1}
+		{85F29017-44DB-4A0C-8264-B64FD698DBB2} = {706A31A8-81AC-466C-B071-4D99BF0289B1}
+		{037D942B-DEDC-4A18-9506-868124C5F5F0} = {E6DBC423-D395-4472-B94D-72CF6C2F3492}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {403FCD6E-D24D-4D24-B1DC-AE5B6DE2BC09}
+	EndGlobalSection
+EndGlobal

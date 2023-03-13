@@ -1,0 +1,12 @@
+C:\Users\CleanArchitecture\DBS.LeaveManagement.Domain\bin\Debug\net6.0\DBS.LeaveManagement.Domain.deps.json
+C:\Users\CleanArchitecture\DBS.LeaveManagement.Domain\bin\Debug\net6.0\DBS.LeaveManagement.Domain.dll
+C:\Users\CleanArchitecture\DBS.LeaveManagement.Domain\bin\Debug\net6.0\DBS.LeaveManagement.Domain.pdb
+C:\Users\CleanArchitecture\DBS.LeaveManagement.Domain\obj\Debug\net6.0\DBS.LeaveManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\CleanArchitecture\DBS.LeaveManagement.Domain\obj\Debug\net6.0\DBS.LeaveManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CleanArchitecture\DBS.LeaveManagement.Domain\obj\Debug\net6.0\DBS.LeaveManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\CleanArchitecture\DBS.LeaveManagement.Domain\obj\Debug\net6.0\DBS.LeaveManagement.Domain.AssemblyInfo.cs
+C:\Users\CleanArchitecture\DBS.LeaveManagement.Domain\obj\Debug\net6.0\DBS.LeaveManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\CleanArchitecture\DBS.LeaveManagement.Domain\obj\Debug\net6.0\DBS.LeaveManagement.Domain.dll
+C:\Users\CleanArchitecture\DBS.LeaveManagement.Domain\obj\Debug\net6.0\refint\DBS.LeaveManagement.Domain.dll
+C:\Users\CleanArchitecture\DBS.LeaveManagement.Domain\obj\Debug\net6.0\DBS.LeaveManagement.Domain.pdb
+C:\Users\CleanArchitecture\DBS.LeaveManagement.Domain\obj\Debug\net6.0\ref\DBS.LeaveManagement.Domain.dll
