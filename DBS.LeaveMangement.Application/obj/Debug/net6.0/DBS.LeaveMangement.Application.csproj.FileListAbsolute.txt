@@ -1,0 +1,15 @@
+C:\Users\CleanArchitecture\DBS.LeaveMangement.Application\bin\Debug\net6.0\DBS.LeaveMangement.Application.deps.json
+C:\Users\CleanArchitecture\DBS.LeaveMangement.Application\bin\Debug\net6.0\DBS.LeaveMangement.Application.dll
+C:\Users\CleanArchitecture\DBS.LeaveMangement.Application\bin\Debug\net6.0\DBS.LeaveMangement.Application.pdb
+C:\Users\CleanArchitecture\DBS.LeaveMangement.Application\bin\Debug\net6.0\DBS.LeaveManagement.Domain.dll
+C:\Users\CleanArchitecture\DBS.LeaveMangement.Application\bin\Debug\net6.0\DBS.LeaveManagement.Domain.pdb
+C:\Users\CleanArchitecture\DBS.LeaveMangement.Application\obj\Debug\net6.0\DBS.LeaveMangement.Application.csproj.AssemblyReference.cache
+C:\Users\CleanArchitecture\DBS.LeaveMangement.Application\obj\Debug\net6.0\DBS.LeaveMangement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CleanArchitecture\DBS.LeaveMangement.Application\obj\Debug\net6.0\DBS.LeaveMangement.Application.AssemblyInfoInputs.cache
+C:\Users\CleanArchitecture\DBS.LeaveMangement.Application\obj\Debug\net6.0\DBS.LeaveMangement.Application.AssemblyInfo.cs
+C:\Users\CleanArchitecture\DBS.LeaveMangement.Application\obj\Debug\net6.0\DBS.LeaveMangement.Application.csproj.CoreCompileInputs.cache
+C:\Users\CleanArchitecture\DBS.LeaveMangement.Application\obj\Debug\net6.0\DBS.LeaveMangement.Application.csproj.CopyComplete
+C:\Users\CleanArchitecture\DBS.LeaveMangement.Application\obj\Debug\net6.0\DBS.LeaveMangement.Application.dll
+C:\Users\CleanArchitecture\DBS.LeaveMangement.Application\obj\Debug\net6.0\refint\DBS.LeaveMangement.Application.dll
+C:\Users\CleanArchitecture\DBS.LeaveMangement.Application\obj\Debug\net6.0\DBS.LeaveMangement.Application.pdb
+C:\Users\CleanArchitecture\DBS.LeaveMangement.Application\obj\Debug\net6.0\ref\DBS.LeaveMangement.Application.dll
