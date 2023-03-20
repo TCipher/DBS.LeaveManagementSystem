@@ -1,5 +1,5 @@
 ﻿using AutoMapper;
-using DBS.LeaveMangement.Application.DTOs;
+using DBS.LeaveMangement.Application.DTOs.LeaveTypeDtos;
 using DBS.LeaveMangement.Application.Features.Request.Querries;
 using DBS.LeaveMangement.Application.Persistence.Contracts;
 using MediatR;

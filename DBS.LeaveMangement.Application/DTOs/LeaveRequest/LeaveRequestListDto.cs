@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using DBS.LeaveMangement.Application.DTOs.Common;
+using DBS.LeaveMangement.Application.DTOs.LeaveTypeDtos;
 
 namespace DBS.LeaveMangement.Application.DTOs.LeaveRequest
 {

@@ -1,4 +1,4 @@
-﻿using DBS.LeaveMangement.Application.DTOs;
+﻿using DBS.LeaveMangement.Application.DTOs.LeaveTypeDtos;
 using MediatR;
 using System;
 using System.Collections.Generic;

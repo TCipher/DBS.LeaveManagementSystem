@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using DBS.LeaveMangement.Application.DTOs.Common;
+using DBS.LeaveMangement.Application.DTOs.LeaveTypeDtos;
 
 namespace DBS.LeaveMangement.Application.DTOs.LeaveRequest
 {
@@ -15,7 +17,7 @@ namespace DBS.LeaveMangement.Application.DTOs.LeaveRequest
         public int LeaveTypeId { get; set; }
         public DateTime DateRequested { get; set; }
         public string RequestComments { get; set; }
-        public DateTime DateActioned { get; set; }
+        public DateTime? DateActioned { get; set; }
         public bool? Approved { get; set; }
         public bool Cancelled { get; set; }
     }

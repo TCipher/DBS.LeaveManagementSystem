@@ -1,7 +1,8 @@
 ﻿using AutoMapper;
 using DBS.LeaveManagement.Domain;
-using DBS.LeaveMangement.Application.DTOs;
+using DBS.LeaveMangement.Application.DTOs.LeaveAllocationDtos;
 using DBS.LeaveMangement.Application.DTOs.LeaveRequest;
+using DBS.LeaveMangement.Application.DTOs.LeaveTypeDtos;
 using System;
 using System.Collections.Generic;
 using System.Linq;
